@@ -2,6 +2,10 @@
 
 Newsly is a responsive news web application built with HTML, CSS, and JavaScript that allows users to explore the latest news, browse different categories, search for specific topics, and read full articles from their original sources.
 
+## 🎥 Demo
+
+![Newsly Demo](https://github.com/user-attachments/assets/145bce36-8a2a-40ec-a7a0-6eac8dccf80b)
+
 ## ✨ Features
 
 - **Latest News:** Fetch and display news articles using the News API.
